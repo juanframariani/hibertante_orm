@@ -1,2 +1,2 @@
-# hibertante_orm
+# TP HIBERNATE 
 Trabajo Practico con Hibernate/ORM
